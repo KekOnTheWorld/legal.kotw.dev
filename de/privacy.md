@@ -7,14 +7,19 @@ Dies gilt für alle in <a href="domains">domains</a> aufgeführten Internet seit
 
 <br>
 
-## **Verantwortlicher**
+## **Verantwortlicher gemäß Art 13 DSGVO**
 Verantwortlich für die Datenverarbeitung ist
+
 <br>
+
+**Missbrauch dieser Daten jeglicher Art führt zur Anzeige**<br>
 
 Birkert, Lucas<br>
 Im Tiefenbrunnen 2/1<br>
 74635 Kupferzell<br>
-Telefon: +49-1743644198<br>
+
+**Vertreten durch:**<br>
+Lucas Birkert<br>
 
 **Kontakt:**
 

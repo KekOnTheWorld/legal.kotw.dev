@@ -3,7 +3,7 @@ Dieses Impressum gilt für alle in <a href="domains">domains</a> aufgeführten I
 
 <br>
 
-Angaben gemäß § 5 TMG<br>
+## **Verantwortlicher gemäß §5 TMG**
 
 <br>
 
@@ -15,7 +15,6 @@ Im Tiefenbrunnen 2/1<br>
 
 **Vertreten durch:**<br>
 Lucas Birkert<br>
-
 
 **Kontakt:**
 
