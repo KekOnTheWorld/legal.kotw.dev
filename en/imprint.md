@@ -21,8 +21,6 @@ Lucas Birkert<br>
 *Electronic (please use preferably)*<br>
 E-Mail: <a href='mailto:kekontheworld@gmail.com'>kekontheworld@gmail.com</a>
 
-</br>
-
 Telephone: +49-1743644198
 
 <br>
