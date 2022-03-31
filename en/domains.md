@@ -1,6 +1,6 @@
 # Domains
 
-| Domain                         | Name       | Beschreibung                    | Hinweise                          |
+| domain                         | name       | description                    | notice                          |
 | ------------------------------ | ---------- | ------------------------------- | --------------------------------- |
 | kotw.dev; www.kotw.dev         | KOTW main  | Main website from KekOnTheWorld | -                                 |
 | u.kotw.dev; upload.kotw.dev    | KekUpload  | Tool to upload files            | See <a href="kekupload">here</a>  |
