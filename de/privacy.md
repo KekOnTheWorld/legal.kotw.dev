@@ -3,6 +3,10 @@ In dieser Datenschutzerklärung informieren wir Sie über die Verarbeitung perso
 
 <br>
 
+Dies gilt für alle in <a href="domains">domains</a> aufgeführten Internet seiten.
+
+<br>
+
 ## **Verantwortlicher**
 Verantwortlich für die Datenverarbeitung ist
 <br>
