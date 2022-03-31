@@ -13,9 +13,9 @@ oder so sich sicher sind das diese Datei ein Gesetz verstößt, dann können sie
 4. Grund der Meldung
 
 <br>
-Nachdem eine Meldung eingereicht wurde werde ich diese auf Validität prüfen und im Fall eines Verstoßes diese so schnell wie möglich löschen. (Je nach Situationslage kann dies auch länger dauern. Ich bitte um ihr Verständniss)
+Nachdem eine Meldung eingereicht wurde werden wir diese auf Validität prüfen und im Fall eines Verstoßes diese so schnell wie möglich löschen. (Je nach Situationslage kann dies auch länger dauern. Wir bitten um ihr Verständniss)
 
 <br>
 
 # Auskunft
-Es ist keine Auskunft auf IP Adresse des uploaders möglich, da diese nicht aufgezeichnet wird. Ich bitte sie um ihr Verständniss.
+Es ist keine Auskunft auf IP Adresse des uploaders möglich, da diese nicht aufgezeichnet wird. Wir bitten sie um ihr Verständniss.
