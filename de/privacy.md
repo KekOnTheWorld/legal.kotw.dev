@@ -11,15 +11,17 @@ Dies gilt für alle in <a href="domains">domains</a> aufgeführten Internet seit
 Verantwortlich für die Datenverarbeitung ist
 <br>
 
-*Elektronisch (bitte vorzugsweise nutzen)*<br>
-kekontheworld@gmail.com
-<br>
-
 Birkert, Lucas<br>
 Im Tiefenbrunnen 2/1<br>
 74635 Kupferzell<br>
+Telefon: +49-1743644198<br>
 
-<br>
+**Kontakt:**
+
+*Elektronisch (bitte vorzugsweise nutzen)*<br>
+E-Mail: <a href='mailto:kekontheworld@gmail.com'>kekontheworld@gmail.com</a> </br>
+
+Telefon: +49-1743644198
 
 ## **Personenbezogene Daten**
 
