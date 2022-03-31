@@ -6,7 +6,7 @@
     var params = new URLSearchParams(window.location.search);
     var page = params.get("page") || "imprint";
 
-    var lang = langs.filter(l=>userLang.startsWith(l))[0] || "de";
+    var lang = langs.filter(l=>userLang.startsWith(l))[0] || "en";
 
     window.location = lang + "/" + page;
 </script>
