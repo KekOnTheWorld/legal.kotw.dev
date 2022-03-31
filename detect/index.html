@@ -1,0 +1,12 @@
+<base href="/">
+<script>
+    const langs = ["de"];
+
+    var userLang = navigator.language || navigator.userLanguage;
+    var params = new URLSearchParams(window.location.search);
+    var page = params.get("page") || "imprint";
+
+    var lang = langs.filter(l=>userLang.startsWith(l))[0] || "de";
+
+    window.location = lang + "/" + page;
+</script>

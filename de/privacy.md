@@ -1,9 +1,9 @@
 # Datenschutzerklärung
-In dieser Datenschutzerklärung informieren wir Sie über die Verarbeitung personenbezogener Daten bei der Nutzung dieser Website.
+In dieser Datenschutzerklärung informieren wir Sie über die Verarbeitung personenbezogener Daten bei der Nutzung dieser Services.
 
 <br>
 
-Dies gilt für alle in <a href="domains">domains</a> aufgeführten Internet seiten.
+Dies gilt für alle in <a href="domains">domains</a> aufgeführten Websiten.
 
 <br>
 

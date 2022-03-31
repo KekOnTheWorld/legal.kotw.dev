@@ -1,5 +1,5 @@
 # Impressum
-Dieses Impressum gilt für alle in <a href="domains">domains</a> aufgeführten Internet seiten.
+Dieses Impressum gilt für alle in <a href="domains">domains</a> aufgeführten Webseiten.
 
 <br>
 
@@ -42,7 +42,7 @@ Die durch die Seitenbetreiber erstellten Inhalte und Werke auf diesen Seiten unt
 <br>
 
 ### Datenschutz
-Eine detailliertere version, welche Daten wir verarbeiten, finden sie in <a href="privacy">unserer Datenschutzerklärung</a>.
+Eine detaillierte version, welche Daten wir verarbeiten, finden sie in <a href="privacy">unserer Datenschutzerklärung</a>.
 <br>
 
 Die Nutzung unserer Webseite ist in der Regel ohne Angabe personenbezogener Daten möglich. Soweit auf unseren Seiten personenbezogene Daten (beispielsweise Name, Anschrift oder eMail-Adressen) erhoben werden, erfolgt dies, soweit möglich, stets auf freiwilliger Basis. Diese Daten werden ohne Ihre ausdrückliche Zustimmung nicht an Dritte weitergegeben. <br>
