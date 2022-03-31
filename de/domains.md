@@ -8,3 +8,4 @@
 | api.kotw.dev                   | KekAPI     | Seite mit Hilfreichen APIs      | -                                   |
 | bobux.kotw.dev                 | Bobux      | Ein bobux rickroll              | -                                   |
 | projects.kotw.dev              | Projekte   | (privat)                        | -                                   |
+| legal.kotw.dev                 | KekLegal   | Legales für KOTW services       | -                                   |
