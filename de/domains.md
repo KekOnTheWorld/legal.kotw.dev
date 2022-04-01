@@ -9,3 +9,4 @@
 | bobux.kotw.dev                 | Bobux      | Ein bobux rickroll              | -                                   |
 | projects.kotw.dev              | Projekte   | (privat)                        | -                                   |
 | legal.kotw.dev                 | KekLegal   | Legales für KOTW services       | -                                   |
+| events.kotw.dev                | Events     | API für aktuelle Ereignisse     | -                                   |
