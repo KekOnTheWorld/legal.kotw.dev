@@ -3,7 +3,8 @@
 When creating an Account (register) following data will be saved
 1. ip address (private)
 2. email address (see Notice)
-3. password (private; SHA512)
+3. username (public)
+4. password (private; SHA512)
 
 <br>
 

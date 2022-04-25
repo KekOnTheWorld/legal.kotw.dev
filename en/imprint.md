@@ -1,5 +1,5 @@
 # Imprint
-This imprint counts for all in <a href="domains">domains</a> defined websites.
+This imprint counts for all in <a href="domains">domains</a> defined domains.
 
 <br>
 

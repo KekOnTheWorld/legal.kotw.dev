@@ -1,5 +1,5 @@
 # Impressum
-Dieses Impressum gilt für alle in <a href="domains">domains</a> aufgeführten Webseiten.
+Dieses Impressum gilt für alle in <a href="domains">domains</a> aufgeführten Domains.
 
 <br>
 

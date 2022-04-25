@@ -1,11 +1,11 @@
 # Report
-If you see an uploaded file which violates following
+If you see an uploaded file which violates at least one of the following:
 1. copyright
 2. trademark
 3. child pornography
    
 <br>
-or you are sure that the file breaks a law, then you can report this under <a href="mailto:abuse@kotw.dev">abuse@kotw.dev</a> with following informations
+or you are sure that the file breaks a law, then you can report this under <a href="mailto:abuse@kotw.dev">abuse@kotw.dev</a> with following informations:
 
 1. name of the service (KekUpload)
 2. your name (optional)

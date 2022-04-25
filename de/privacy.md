@@ -3,7 +3,7 @@ In dieser Datenschutzerklärung informieren wir Sie über die Verarbeitung perso
 
 <br>
 
-Dies gilt für alle in <a href="domains">domains</a> aufgeführten Websiten.
+Dies gilt für alle in <a href="domains">domains</a> aufgeführten domains.
 
 <br>
 

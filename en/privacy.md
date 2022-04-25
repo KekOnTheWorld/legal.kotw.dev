@@ -3,7 +3,7 @@ In this privacy policy we will inform you about the usage of personal data while
 
 <br>
 
-This counts for all in <a href="domains">domains</a> defined websites.
+This counts for all in <a href="domains">domains</a> defined domains.
 
 <br>
 
